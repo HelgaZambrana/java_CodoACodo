@@ -24,5 +24,3 @@ El sitio cuenta con 4 páginas desarrolladas con:
 ## Referencias
 
 https://laideal.ar/index.html
-
-https://barlosgalgos.com.ar/
